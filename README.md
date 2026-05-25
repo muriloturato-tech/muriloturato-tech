@@ -1,16 +1,27 @@
-## Hi there 👋
+# 🚀 Bem-vindo ao meu perfil! Eu sou o Murilo Turato
 
-<!--
-**muriloturato-tech/muriloturato-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **Estudante de Engenharia de Software (1º Ano)** | 🏪 **Empreendedor** | 📍 **Jaguapitã - PR**
 
-Here are some ideas to get you started:
+Tenho 19 anos e acredito que a tecnologia é a maior ferramenta de transformação para o mundo dos negócios. Hoje, divido minha rotina entre os códigos da faculdade e a gestão das minhas empresas (uma barbearia e um negócio de doces & embalagens).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 No que estou focado atualmente?
+* Construindo uma base sólida em Engenharia de Software.
+* Entendendo como aplicar a tecnologia para automatizar e escalar negócios físicos.
+* Aprendendo novas linguagens de programação e arquitetura de sistemas.
+
+### 🛠️ Toolbox (Ferramentas e Tecnologias)
+* 💻 **Estudando:** HTML5 | CSS3 | JavaScript 
+* 🔧 **Controle de Versão:** Git | GitHub
+* 📊 **Soft Skills:** Empreendedorismo, Gestão de Negócios, Liderança e Resolução de Problemas.
+
+---
+
+### 📈 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=gotham)
+
+---
+
+ Let's connect! 
+[portifolio](SEU-LINK-AQUI) | [E-mail](muriloturato320@gmail.com)
